@@ -1,0 +1,1 @@
+This is my personal implementation of the assignments from Colt Steele's Web Developer Bootcamp 2023 (https://www.udemy.com/course/the-web-developer-bootcamp/)
